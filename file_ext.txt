@@ -1,0 +1,123 @@
+# Graphics
+
+PCX (PCExchange)
+CALS (Computer Aided Acquisition and Logistics Support) 
+PDF (Portable Document Format)
+
+ico
+swf 
+1) Rastrovye
+
+BMP (Windows or OS/2 bitmap)
+GIF (Graphics Interchange Format)
+JPEG, JPG, JPE (Joint Photographic Experts Group)
+JPEG 2000 (.jp2)
+PNG (Portable Network Graphics)
+PSD (Photoshop document), родной формат Фотошопа
+RAW
+TGA (Truevision Targa) (.TGA, .tpic)
+TIFF, TIF (Tagged Image Format)
+WDP, HDP (Windows Media Photo)
+CPT (Corel PHOTO-PAINT bitmap), родной формат Фото-Пайнта
+
+2) Векторные - содержат в себе элементы векторной графики.
+
+AI (Adobe Illustrator), родной формат Иллюстратора
+CDR (Corel Draw), родной формат Корела
+CGM (Computer Graphics Metafile)
+SVG (Scalable Vector Graphics)
+WMF (Windows Metafile)
+EMF (Extended Metafile)
+3) Универсальные – могут содержать и векторные и растровые элементы.
+
+EPS (Encapsulated Postscript format)
+PS (PostScript)
+
+# text
+TXT
+DOC
+DOCX
+ODT
+RTF
+PDF
+CHM
+
+?lyx
+?tex
+
+
+# e-book
+EPUB
+FB2
+MOBI
+LIT
+DJVU
+
+СНМ, НТМ, МНТ
+
+# tables
+XLS
+XLSX
+.sxc
+
+# Audio
+.midi, .mp3, .wav
+.aa, .aac, .ac3, .amr, .cda, .imelody, .imy, .flac, .m4a, .ogg, .qcp, .wma, .xmf
+m4a amr aiff
+
+# Video
+.avi
+.mkv
+.3gp, .avi, .aaf, .flv, .mp4, .mpeg, .mov, .vob, .wmv, .mts
+
+
+avi vob 3gp asf mov mkv flv swf wmv dvd mpeg-2 h.264 XviD mp4 3g2 mkv DivX MOV
+
+vhs dv avchd hd ram rm ra
+mpg tod mts m4v rm qt ts
+
+
+# archive
+.zip
+.7z, .ace, .arj, .cab, .rar, .tar, .ha, .iso, . lhq, .lzo, .zoo.
+???.gunzip
+gz
+bz2
+.tgz
+.tar.gz
+.tar.bz2
+
+# Web
+.htm, .html, .xml, .xhtml, .mhtml
+.asp, .aspx, .adp, .bml, .cfm, .cgi, .ihtml, .jsp, .las, .pl, .php, .ssi.
+.js ???
+
+# Presentation
+.odt, .ppt, .pptx.
+
+# Executable
+.exe, .bin
+
+# Confs
+.log
+.tmp
+.ini
+.cfg
+
+
+
+# Fonts
+.ttf
+.fon
+
+# Dynamic libs
+.dll
+.so
+
+
+.pas
+.php
+.pl .pm
+.py
+.js
+.jar
